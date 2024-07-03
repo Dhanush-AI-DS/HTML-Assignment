@@ -146,10 +146,13 @@ Open the saved file in your web browser by double-clicking it or by right-clicki
 </body>
 </html>
 ```
+````
 ## Output:
 
-![htt](output.png)
-
+![out](output.png)
+````
+````
 ## Result:
    Thus a creating web page image using Html is successfull .
+
 
