@@ -7,23 +7,23 @@
 ## Aim :
     To Creating a web page using HTML
 ## Algorithm:
-###Step 1: Set Up Your Environment<br/>
+### Step 1: Set Up Your Environment<br/>
 Before you start writing HTML, you need:<br/>
 A text editor (e.g., Notepad, Sublime Text, Visual Studio Code).<br/>
 A web browser (e.g., Google Chrome, Firefox).<br/>
-###Step 2:Create a New HTML File<br/>
+### Step 2:Create a New HTML File<br/>
 Open your text editor.<br/>
 Create a new file and save it with a .html extension, for example, index.html.<br/>
-###Step 3: Basic HTML Structure<br/>
+### Step 3: Basic HTML Structure<br/>
 Every HTML document should have a basic structure that includes the <!DOCTYPE html> declaration, and the <html>, <head>, and <body> tags.<br/>
-###Step 4:Adding Content<br/>
+### Step 4:Adding Content<br/>
 You can now add content to your web page using various HTML elements.<br/>
-###Step 5:Save and View Your Web Page<br/>
+### Step 5:Save and View Your Web Page<br/>
 Save the HTML file.<br/>
 Open the saved file in your web browser by double-clicking it or by right-clicking and selecting "Open with" and then your preferred browser.<br/>
 
 ## Program:
-
+*/
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -145,10 +145,9 @@ Open the saved file in your web browser by double-clicking it or by right-clicki
     </table>
 </body>
 </html>
-
-
+*/
 ## Output:
-<img width="760" alt="Output" src="http://127.0.0.1:3002html/index.">
+![Out](output.png)
 
 ## Result:
    Thus a creating web page image using Html is successfull .
