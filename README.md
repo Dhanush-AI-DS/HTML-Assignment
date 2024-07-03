@@ -23,7 +23,7 @@ Save the HTML file.<br/>
 Open the saved file in your web browser by double-clicking it or by right-clicking and selecting "Open with" and then your preferred browser.<br/>
 
 ## Program:
-*/
+````
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -145,9 +145,10 @@ Open the saved file in your web browser by double-clicking it or by right-clicki
     </table>
 </body>
 </html>
-*/
+```
 ## Output:
-![Out](output.png)
+
+![htt](output.png)
 
 ## Result:
    Thus a creating web page image using Html is successfull .
