@@ -4,8 +4,9 @@
 <H3> Web Fundamentals and HTML Assignment</H3>
 <H3>DATE:03-07-2024</H3>
 
+
 ## Aim :
-    To Creating a web page using HTML
+    To Creating a web page using HTML.
 ## Algorithm:
 ### Step 1: Set Up Your Environment<br/>
 Before you start writing HTML, you need:<br/>
@@ -153,6 +154,5 @@ Open the saved file in your web browser by double-clicking it or by right-clicki
 ````
 ````
 ## Result:
-   Thus a creating web page image using Html is successfull .
-
+  The Creating a webpage image using Html is Sucessfully Executed.
 
